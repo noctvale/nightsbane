@@ -1,3 +1,0 @@
-```
-The cold draws near 🗡
-```
