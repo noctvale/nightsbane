@@ -47,4 +47,5 @@ return require("packer").startup(function(use)
     dependencies = { "nvim-tree/nvim-web-devicons" },
   })
   use("folke/flash.nvim")
+  use("tpope/vim-fugitive")
 end)
